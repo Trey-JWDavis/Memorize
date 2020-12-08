@@ -1,5 +1,5 @@
 //
-//  ContentView.swift
+//  EmojiMemoryGameView.swift
 //  Memorize
 //
 //  Created by Trey Davis on 12/7/20.
@@ -39,7 +39,7 @@ struct CardView: View {
         }
     }
     
-    // Mark: Tuning Variables
+    // Mark: -  Tuning Variables
     
     var cornerRadius: CGFloat = 10
     var edgeLineWidth: CGFloat = 3
