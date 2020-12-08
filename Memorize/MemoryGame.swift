@@ -11,10 +11,8 @@ struct MemoryGame<CardContent> {
     var cards: Array<Card>
     
     mutating func choose(card: Card) {
-        for index in 0..<cards.count {
-            if card.id == cards[index].id {
-                cards[index].isFaceUp = !cards[index].isFaceUp
-            }
+        if let chosenIndex = cards.firstIndex(matching: card) {
+            self.cards[chosenIndex].isFaceUp = !cards[chosenIndex].isFaceUp
         }
     }
     

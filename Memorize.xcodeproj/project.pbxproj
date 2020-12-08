@@ -15,6 +15,7 @@
 		0A87B5FF257EA87A00E90992 /* EmojiMemoryGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A87B5FE257EA87A00E90992 /* EmojiMemoryGame.swift */; };
 		0A87B60A257FBADC00E90992 /* Grid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A87B609257FBADC00E90992 /* Grid.swift */; };
 		0A87B60E257FD3BE00E90992 /* GridLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A87B60D257FD3BE00E90992 /* GridLayout.swift */; };
+		0A87B617257FF9BD00E90992 /* Array+Identifiable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A87B616257FF9BD00E90992 /* Array+Identifiable.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		0A87B5FE257EA87A00E90992 /* EmojiMemoryGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiMemoryGame.swift; sourceTree = "<group>"; };
 		0A87B609257FBADC00E90992 /* Grid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Grid.swift; sourceTree = "<group>"; };
 		0A87B60D257FD3BE00E90992 /* GridLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridLayout.swift; sourceTree = "<group>"; };
+		0A87B616257FF9BD00E90992 /* Array+Identifiable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Array+Identifiable.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				0A87B5FE257EA87A00E90992 /* EmojiMemoryGame.swift */,
 				0A87B609257FBADC00E90992 /* Grid.swift */,
 				0A87B60D257FD3BE00E90992 /* GridLayout.swift */,
+				0A87B616257FF9BD00E90992 /* Array+Identifiable.swift */,
 				0A87B5EB257E989C00E90992 /* Assets.xcassets */,
 				0A87B5F0257E989C00E90992 /* Info.plist */,
 				0A87B5ED257E989C00E90992 /* Preview Content */,
@@ -155,6 +158,7 @@
 				0A87B5E8257E989A00E90992 /* MemorizeApp.swift in Sources */,
 				0A87B60E257FD3BE00E90992 /* GridLayout.swift in Sources */,
 				0A87B60A257FBADC00E90992 /* Grid.swift in Sources */,
+				0A87B617257FF9BD00E90992 /* Array+Identifiable.swift in Sources */,
 				0A87B5FF257EA87A00E90992 /* EmojiMemoryGame.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
